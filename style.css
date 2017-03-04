@@ -13,7 +13,8 @@ header{
 }
 
 section{
-  
+  margin: 2em;
+  text-align: center;
 }
 
 .semaine1, .semaine2{
@@ -34,7 +35,19 @@ h2{
   text-transform: uppercase;
 }
 
+h3{
+  text-align: center;
+  color: hsl(16, 100%, 50%);
+}
+
 li, h4{
   padding: 0.3em;
   text-align: left;
+}
+
+ol{
+  background-color: #FFF8DC;
+  color: black;
+  height: 230px;
+  /*border-radius: 5%;*/
 }
