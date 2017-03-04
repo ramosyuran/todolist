@@ -71,3 +71,12 @@ ol{
 #line {
   text-decoration: line-through;
 }
+
+/*footer*/
+
+footer{
+  background-image: url(image/back.png);
+  width: 100%;
+  height: 50px;
+  box-shadow: 1px 1px 30px hsl(16, 100%, 50%);
+}
