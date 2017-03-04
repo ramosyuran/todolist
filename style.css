@@ -1,7 +1,11 @@
+/*body*/
+
 body{
   margin: 0;
   background: #FFF8DC;
 }
+
+/*Header*/
 
 header{
   background-image: url(image/back.png);
@@ -11,6 +15,8 @@ header{
   text-align: center;
   padding: 0.5em;
 }
+
+/*section*/
 
 section{
   margin: 2em;
@@ -26,6 +32,12 @@ section{
   color: #E6E6FA;
   border-radius: 10%;
   display: inline-block;
+  box-shadow: 3px 3px 15px hsl(16, 100%, 50%);
+}
+
+span{
+  padding: 0.2em;
+  border-radius: 10%;
 }
 
 h2{
@@ -45,9 +57,12 @@ li, h4{
   text-align: left;
 }
 
+.semaine1 li{
+  text-decoration: line-through;
+}
+
 ol{
   background-color: #FFF8DC;
   color: black;
   height: 230px;
-  /*border-radius: 5%;*/
 }
