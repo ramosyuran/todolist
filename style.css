@@ -18,26 +18,28 @@ section{
   height: 700px;
   margin: 0 3em;
   text-align: center;
+  display: inline-block;
 }
 
 .projet{
   background-image: url(image/back.png);
   width: 20%;
-  margin: 0;
+  margin: 2em;
   padding: 1em;
-  height: 250px;
+  height: 300px;
   color: #E6E6FA;
-  display: inline-block;
+  /*display: inline-block;*/
   border-radius: 10%;
 }
+
 h2{
   text-align: left;
-}
-
-h3{
-  text-align: center;
+  margin: 2em auto;
+  text-decoration: underline;
+  text-transform: uppercase;
 }
 
 li{
   padding: 0.3em;
+  text-align: left;
 }
