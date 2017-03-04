@@ -57,7 +57,7 @@ li, h4{
   text-align: left;
 }
 
-.semaine1 li, .semaine2 li{
+.semaine1 li{
   text-decoration: line-through;
 }
 
