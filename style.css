@@ -17,6 +17,7 @@ header{
 section{
   height: 700px;
   margin: 0 3em;
+  text-align: center;
 }
 
 .projet{
@@ -28,6 +29,9 @@ section{
   color: #E6E6FA;
   display: inline-block;
   border-radius: 10%;
+}
+h2{
+  text-align: left;
 }
 
 h3{
