@@ -81,6 +81,12 @@ footer{
   box-shadow: 1px 1px 30px hsl(16, 100%, 50%);
 }
 
+footer p{
+  float: left;
+  color: #E6E6FA;
+  margin: 1.5em;
+}
+
 footer a{
   float: right;
   margin: auto 0.5em;
