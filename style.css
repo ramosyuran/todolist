@@ -23,7 +23,7 @@ section{
   text-align: center;
 }
 
-.semaine1, .semaine2{
+.semaine1, .semaine2, .semaine3{
   background-image: url(image/back.png);
   width: 35%;
   margin: 2em;
@@ -57,7 +57,7 @@ li, h4{
   text-align: left;
 }
 
-.semaine1 li{
+.semaine1 li, .semaine2 li{
   text-decoration: line-through;
 }
 
