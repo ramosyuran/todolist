@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-image: url(image/back.png);
+  width: 100%;
+  height: 100px;
+  color: #E6E6FA;
+  border-bottom: 0.5em hsl(16, 100%, 50%) solid;
+  text-align: center;
+}
+
+header h1{
+  margin: 0;
+  padding: 1em;
+}
+
+header img{
+  margin: 0;
+}
