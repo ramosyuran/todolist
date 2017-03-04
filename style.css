@@ -29,7 +29,7 @@ section{
   width: 35%;
   margin: 2em;
   padding: 1em;
-  height: 300px;
+  height: 320px;
   color: #E6E6FA;
   border-radius: 10%;
   display: inline-block;
@@ -65,7 +65,7 @@ li, h4{
 ol{
   background-color: #FFF8DC;
   color: black;
-  height: 230px;
+  height: 250px;
 }
 
 #line {
