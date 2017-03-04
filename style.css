@@ -1,6 +1,7 @@
 body{
   margin: 0;
   padding: 0;
+  background: #FFF8DC;
 }
 
 header{
@@ -8,7 +9,31 @@ header{
   width: 100%;
   height: 120px;
   color: #E6E6FA;
-  border-bottom: 0.5em hsl(16, 100%, 50%) solid;
+  border-bottom: 0.4em hsl(16, 100%, 50%) solid;
   text-align: center;
-  padding: 0.5em;;
+  padding: 0.5em;
+}
+
+section{
+  height: 700px;
+  margin: 0 3em;
+}
+
+.projet{
+  background-image: url(image/back.png);
+  width: 20%;
+  margin: 0;
+  padding: 1em;
+  height: 250px;
+  color: #E6E6FA;
+  display: inline-block;
+  border-radius: 10%;
+}
+
+h3{
+  text-align: center;
+}
+
+li{
+  padding: 0.3em;
 }
