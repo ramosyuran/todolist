@@ -58,8 +58,12 @@ li, h4{
   text-align: left;
 }
 
-.semaine1 li{
+li{
   text-decoration: line-through;
+}
+
+#noline{
+  text-decoration: none;
 }
 
 ol{
@@ -67,10 +71,6 @@ ol{
   color: black;
   height: 250px;
   width: 90%;
-}
-
-#line {
-  text-decoration: line-through;
 }
 
 /*footer*/
